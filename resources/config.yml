@@ -1,0 +1,26 @@
+# Id and Meta of the land mine (also work with all carpets)
+# Recommended explosion force: 5-8
+#
+# --------------------------------------------------------------------------------------
+#
+# Id et Meta de la mine terresye (marche aussi avec tous les tapis)
+# Force d'explosion recommandé: 5-8
+# ----------------------------------------------------------------------------------------------------
+land_mine:
+  id: 1
+  meta: 0
+  explosion_force: 3
+  radius: 3
+
+
+# Water mine work with Lilypad  (id: 111)
+# Recommended explosion force: 5-8
+#
+# --------------------------------------------------------------------------------------
+#
+# La mine aquatique marche sur le nénuphar (id: 111)
+# Force d'explosion recommandé: 5-8
+# ----------------------------------------------------------------------------------------------------
+water_mine:
+  explosion_force: 3
+  radius: 3
